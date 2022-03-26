@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "minimist": ">=1.2.2",
+    "minimist": ">=1.2.6",
     "acorn": ">=5.7.4",
     "@types/jquery": "^3.3.33",
     "datatables.net": "^1.10.20",
